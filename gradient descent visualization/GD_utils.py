@@ -1,4 +1,4 @@
-#second and third visualizations are adapted from TI3145TU Machine Learning and Introduction to AI course from TU Delft
+#second and third visualizations are adapted from Tom Viering's TI3145TU Machine Learning and Introduction to AI course from TU Delft
 import numpy as np
 import plotly.express as px
 import ipywidgets as widgets
